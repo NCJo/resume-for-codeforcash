@@ -1,0 +1,23 @@
+body {
+    /* background-color: rgba(246, 126, 125, 0.4) !important; */
+}
+.givemegrey {
+    background-color: rgba(128, 138, 159, 0.3) !important;
+}
+.padmetopbotpage {
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+.padmetop {
+    padding-top: 0.3em;
+}
+.padmetopbot {
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+}
+.text-center {
+    text-align: center !important;
+}
+hr {
+    border-top: 2px solid rgb(12, 10, 0) !important;
+}
