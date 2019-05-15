@@ -1,8 +1,8 @@
+/* +++++++++++++++++++++++++++++++++++++++++++ */
+/* GENERAL SECTION */
+/* +++++++++++++++++++++++++++++++++++++++++++ */
 body {
-    /* background-color: rgba(246, 126, 125, 0.4) !important; */
-}
-.givemegrey {
-    background-color: rgba(128, 138, 159, 0.3) !important;
+
 }
 .padmetopbotpage {
     padding-top: 2em;
@@ -21,3 +21,29 @@ body {
 hr {
     border-top: 2px solid rgb(12, 10, 0) !important;
 }
+/* +++++++++++++++++++++++++++++++++++++++++++ */
+/* END OF GENERAL SECTION */
+/* +++++++++++++++++++++++++++++++++++++++++++ */
+
+/* +++++++++++++++++++++++++++++++++++++++++++ */
+/* FONTS SECTION */
+/* +++++++++++++++++++++++++++++++++++++++++++ */
+.patua-font {
+    font-family: 'Patua One', cursive;
+}
+.oxygen-font {
+    font-family: 'Oxygen', sans-serif;
+}
+/* +++++++++++++++++++++++++++++++++++++++++++ */
+/* END OF FONTS SECTION */
+/* +++++++++++++++++++++++++++++++++++++++++++ */
+
+/* +++++++++++++++++++++++++++++++++++++++++++ */
+/* COLORS SECTION */
+/* +++++++++++++++++++++++++++++++++++++++++++ */
+.givemegrey {
+    background-color: rgba(128, 138, 159, 0.3) !important;
+}
+/* +++++++++++++++++++++++++++++++++++++++++++ */
+/* END OF COLORS SECTION */
+/* +++++++++++++++++++++++++++++++++++++++++++ */
